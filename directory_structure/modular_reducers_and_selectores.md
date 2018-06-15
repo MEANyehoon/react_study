@@ -22,3 +22,4 @@
 3. 避免循环引用：如果模块A依赖了模块B(A通过B的公共接口引用)，那么模块B就不能引用模块A的任何内容。这就是[之前提到的](http://randycoulman.com/blog/2014/02/04/packaging-principles-part-2/)鲍勃大叔说的[无环依赖原则(ADP)](https://en.wikipedia.org/wiki/Acyclic_dependencies_principle)
 
 ## 目前为止我们有什么? ##
+未完待续...

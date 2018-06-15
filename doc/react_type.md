@@ -63,7 +63,7 @@ const element = <div style={styles} />
 
 ```React.ReactEventHandler<E>```
 
-+ 普通事件处理函数的类型
++ 普通事件处理函数的类型
 
 ```
 const handleChange: React.ReactEventHandler<HTMLInputElement> = (ev) => {...}

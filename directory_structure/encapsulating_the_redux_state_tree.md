@@ -149,3 +149,4 @@ const state = reduce(reducer, initialState, [
 ])
 ```
 
+未完待续...

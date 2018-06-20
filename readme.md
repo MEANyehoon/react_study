@@ -6,3 +6,7 @@
 
 * Typescript React
     1. [React类型概述](https://github.com/MEANyehoon/react_study/blob/master/doc/react_type.md)
+    2. [带有默认参数的组件](https://github.com/MEANyehoon/react_study/blob/master/doc/default_props.md)
+    2. [通用逻辑组件](https://github.com/MEANyehoon/react_study/blob/master/doc/generic_component.md)
+
+    
